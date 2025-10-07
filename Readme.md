@@ -4,17 +4,11 @@
 A system for generating and editing articles in your brand voice and author style with SEO rules fully automated in n8n.  
 Supports the cycle: Outline → Instructions → Section Writing → Editing/SEO → Export to Google Docs (Markdown).
 
+---
+
 🧭 **Scheme**  
 n8n pipeline: **WF1 (instructions) → WF2 (sections) → WF3 (editor) → WF4 (export)**  
 Auxiliary nodes: Brand Pack Retrieval, Style RAG, SEO Linter, Internal Linking, Hallucination Guard
-
-🎧 / 📚 **Samples**  
-Before/After (tone/lexicon/rhythm):  
-- `samples/before/section-1.md` → `samples/after/section-1.md`  
-- `samples/before/section-2.md` → `samples/after/section-2.md`  
-
-SEO scorecard (before/after): `samples/seo/scorecard.json`  
-Style score (before/after): `samples/style/style-diff.md`  
 
 ---
 
@@ -48,6 +42,16 @@ Style score (before/after): `samples/style/style-diff.md`
         </tr>
     </tbody>
 </table>
+
+---
+
+🎧 / 📚 **Samples**  
+Before/After (tone/lexicon/rhythm):  
+- `samples/before/section-1.md` → `samples/after/section-1.md`  
+- `samples/before/section-2.md` → `samples/after/section-2.md`  
+
+SEO scorecard (before/after): `samples/seo/scorecard.json`  
+Style score (before/after): `samples/style/style-diff.md`  
 
 ---
 
