@@ -16,6 +16,41 @@ Before/After (tone/lexicon/rhythm):
 SEO scorecard (before/after): `samples/seo/scorecard.json`  
 Style score (before/after): `samples/style/style-diff.md`  
 
+---
+
+## 🎬 Examples
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/f7420725-5418-4a27-ab7f-8b844d06b1d8" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/1cee7d1d-03f0-4791-b41c-84a5a59fcea7" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/26fa6bc3-7907-4e7d-a554-b9c9f31f3b5c" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/a96e459a-00e4-46e8-ad68-5e3a5a77cf81" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 📖 **Full Description**  
 
 🧩 **Problem Solved**  
